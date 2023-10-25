@@ -5,7 +5,13 @@
 }
 
 body {
+    background-color: rgb(62,62,62);
+}
+
+h1 {
     background-color: royalblue;
+    text-align: center;
+    color: lime;
 }
 
 p {
