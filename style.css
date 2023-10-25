@@ -16,4 +16,10 @@ h1 {
 
 p {
     color: red;
+    background-color: blueviolet;
+}
+
+div {
+    color: green;
+    background-color: yellow;
 }
